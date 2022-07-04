@@ -85,15 +85,17 @@ p {
 .single-experiece:hover {
     box-shadow: 0 0 11px rgba(33, 33, 33, 0.2); 
   }
-#full-stack{
+  #full-stack {
     border-left: 7px solid red;
     border-image: linear-gradient( rgb(242, 15, 15),tomato);
     border-image-slice: 1;
+    padding-top: 52px;
 }
-#baby-web{
+#baby-web {
     border-left: 7px solid;
     border-image: linear-gradient( 180deg,blue,cyan);
     border-image-slice: 1;
+    padding-top: 52px;
 }
 
 /* ---footer--- */
